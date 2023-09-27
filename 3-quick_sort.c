@@ -1,6 +1,4 @@
 #include "sort.h"
-rray(array, size);
-
 
 /**
  * swap - swaps two array elements
